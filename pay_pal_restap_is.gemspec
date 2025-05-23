@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'testerrr-sdk'
-  s.version = '1.5.1'
+  s.version = '1.6.9'
   s.summary = 'testt'
   s.description = 'test'
   s.authors = ['test']
